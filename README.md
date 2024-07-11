@@ -9,6 +9,7 @@ I graduated from the Software Engineering department at Samsun University.
 📈 I am engaged in developing AI-powered web applications, creating and optimizing AI models, web application development, mobile application development, and database design.
 
 Skills: 
+
 JAVA / C# / NODEJS / SQL / PYTHON
 
 
