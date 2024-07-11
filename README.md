@@ -10,7 +10,7 @@ I graduated from the Software Engineering department at Samsun University.
 
 Skills: 
 
-JAVA / C# / NODEJS / SQL / PYTHON
+JAVA / C# / jAVASCRIPT / SQL / PYTHON
 
 
 
